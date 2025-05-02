@@ -5,8 +5,3 @@ I'm a creator of Roblox Scripts and tools — focused on pushing the platform’
 
 ### 🧠 Strongest Skill
 - Roblox Lua (Luau)
-
-### 🔗 Connect With Me
-- Discord: `yourDiscord#0000` 
-
-[Vexsonic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vexsonic&show_icons=true&theme=dark)
